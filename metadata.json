@@ -1,0 +1,6 @@
+{
+  "name": "DATAFIX",
+  "description": "Autonomous data quality and repair platform. Upload, detect, understand, repair, and verify datasets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
